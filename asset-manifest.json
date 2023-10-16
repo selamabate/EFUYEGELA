@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/efuyegela/static/css/main.0add878c.css",
+    "main.js": "/efuyegela/static/js/main.38ec71e5.js",
+    "static/js/787.255560e0.chunk.js": "/efuyegela/static/js/787.255560e0.chunk.js",
+    "static/media/Slide5.webp": "/efuyegela/static/media/Slide5.505d8c26b2ecc3d42094.webp",
+    "static/media/dandelion_clock.jpg": "/efuyegela/static/media/dandelion_clock.460fee0d49430ccb88f1.jpg",
+    "static/media/Efuye.webp": "/efuyegela/static/media/Efuye.f007bde047441078ff4d.webp",
+    "static/media/map.jpg": "/efuyegela/static/media/map.28b66bd88d3a2fc4f5e2.jpg",
+    "static/media/Erca.jpeg": "/efuyegela/static/media/Erca.1334a1584177dacc41a0.jpeg",
+    "static/media/EfuyeGela2-1.webp": "/efuyegela/static/media/EfuyeGela2-1.1f4e86fe571ac0d4f143.webp",
+    "static/media/EfuyeGela1.webp": "/efuyegela/static/media/EfuyeGela1.6cc966931d573137c430.webp",
+    "static/media/EfuyeGela3-1.webp": "/efuyegela/static/media/EfuyeGela3-1.6a76ccef19f260fdc1ef.webp",
+    "static/media/Slide6.webp": "/efuyegela/static/media/Slide6.1b02ba2add4df651f66c.webp",
+    "static/media/4.webp": "/efuyegela/static/media/4.bbe4143fbaa16388c91c.webp",
+    "static/media/5.webp": "/efuyegela/static/media/5.b950208d1d00975a62db.webp",
+    "static/media/Web.webp": "/efuyegela/static/media/Web.b950208d1d00975a62db.webp",
+    "static/media/1.webp": "/efuyegela/static/media/1.53b1fb79d8264cbe4c26.webp",
+    "static/media/Efuye-Gela-logo-1.webp": "/efuyegela/static/media/Efuye-Gela-logo-1.3031af5556cb83cdd617.webp",
+    "static/media/2.webp": "/efuyegela/static/media/2.7f93c480051d554b52e9.webp",
+    "static/media/Marketing.webp": "/efuyegela/static/media/Marketing.b5aa09465391ccc6c86c.webp",
+    "static/media/3.webp": "/efuyegela/static/media/3.ae20fc974cf5f721e735.webp",
+    "index.html": "/efuyegela/index.html",
+    "main.0add878c.css.map": "/efuyegela/static/css/main.0add878c.css.map",
+    "main.38ec71e5.js.map": "/efuyegela/static/js/main.38ec71e5.js.map",
+    "787.255560e0.chunk.js.map": "/efuyegela/static/js/787.255560e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0add878c.css",
+    "static/js/main.38ec71e5.js"
+  ]
+}
